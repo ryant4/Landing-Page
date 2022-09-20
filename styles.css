@@ -73,13 +73,14 @@ nav>a {
 .header {
     display: flex;
     justify-content: center;
-    padding: 25px;
+    padding: 50px;
 }
 
 .navigation-container {
     display: flex;
     justify-content: space-between;
     width: 1000px;
+
 }
 
 
@@ -92,6 +93,7 @@ nav>a {
 .hero-container {
     display: flex;
     width: 1000px;
+    padding: 20px 50px;
     align-items: center;
     justify-content: center;
 }
@@ -101,6 +103,7 @@ nav>a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px 0;
     
 }
 
